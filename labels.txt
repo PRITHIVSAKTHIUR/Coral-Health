@@ -1,0 +1,5 @@
+# Updated labels
+labels = {
+    "0": "Bleached Corals",
+    "1": "Healthy Corals"
+}
